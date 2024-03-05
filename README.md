@@ -1,5 +1,7 @@
 
 # A case study on "Lending Club"
+#### <font color=blue>Contributors in this case study: Ramesh Velivela
+#### Batch: ML61</font>
 
 We are workging for a consumer finance company which specialises in lending various types of loans to urban customers. 
 When the company receives a loan application, the company has to make a decision for loan approval based on the applicant’s profile. 
